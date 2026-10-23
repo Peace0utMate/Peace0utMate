@@ -15,8 +15,9 @@
 
 
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Peace0utMate&color=blueviolet&style=flat-square" alt="Visitor Counter" />
+<div align="center">
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPeace0utMate&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Visitor Counter" />
 
 </div>
 
