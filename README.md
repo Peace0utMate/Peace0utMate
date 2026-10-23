@@ -51,15 +51,9 @@ I run my own NAS and self-host services:
 
 ---
 
----
 
----
 
----
-
----
-
-### 🎮 Steam & CS2 Stats
+### Steam & CS2 Stats
 
 <div align="center">
 
@@ -68,12 +62,12 @@ I run my own NAS and self-host services:
   <tr>
     <td align="center" width="200">
       <b>Competitive Peak</b><br><br>
-      <img src="https://static.wikia.nocookie.net/globaloffensive/images/d/d8/Masterguardianelite.png" width="110" alt="Master Guardian Elite" /><br><br>
+      <img src="./5jctz6-a27c362a544830f2213dc79218efac49.png" width="110" alt="Master Guardian Elite" /><br><br>
       <code>Master Guardian Elite</code>
     </td>
     <td align="center" width="200">
       <b>Wingman Peak</b><br><br>
-      <img src="https://static.wikia.nocookie.net/globaloffensive/images/8/82/Legendaryeagle.png" width="110" alt="Legendary Eagle" /><br><br>
+      <img src="./3agwqg-7027a10f7e56c32a41f6623ac7786ee0.png" width="110" alt="Legendary Eagle" /><br><br>
       <code>Legendary Eagle</code>
     </td>
   </tr>
