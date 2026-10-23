@@ -17,14 +17,14 @@
 
 <div align="center">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPeace0utMate&count_bg=%237952B3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Visitor Counter" />
+<img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/Peace0utMate/Peace0utMate.json?color=blueviolet&style=for-the-badge&label=PROFILE%20VIEWS" alt="Visitor Counter" />
 
 </div>
 
 ---
 
 ### 🐧 Operating Systems & Linux Distros
-I  testing out different Linux distros all ready tried:
+I  testing out different Linux distros already tried:
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
