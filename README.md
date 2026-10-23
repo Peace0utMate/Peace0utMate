@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Berserk 1997 Tough Header Banner -->
-<img src="https://media.giphy.com/media/DziCc8ixZc5Ik/giphy.gif" width="100%" alt="Berserk Banner" />
+
+<img src="./guts.gif"/>
 
 # Peace0utMate✌️
 
