@@ -37,8 +37,8 @@ I  testing out different Linux distros all ready tried:
 ###  Self-Hosting:
 I run my own NAS and self-host services:
 *  **Media:** Jellyfin, *Arr Suite (Radarr, Sonarr, etc.)
-*  **Productivity:** Paperless-ngx, Nextcloud and more.
-*  **Virtualization:** VMs & Docker
+*  **Files:** Paperless-ngx, Nextcloud and more.
+*  **Virtual:** VMs & Docker
 *  **Security:** Automated backups etc
 
 ---
@@ -56,8 +56,6 @@ I run my own NAS and self-host services:
 ### Steam & CS2 Stats
 
 <div align="center">
-
-<!-- CS2 Peak Ranks Table -->
 <table>
   <tr>
     <td align="center" width="200">
